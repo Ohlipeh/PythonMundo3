@@ -1,3 +1,5 @@
+# Crie um programa que declare uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta, além de mostrar a soma de todos os valores pares digitados, a soma dos valores da terceira coluna e o maior valor da segunda linha.
+
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 spar = maior = scol = 0
 

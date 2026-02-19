@@ -1,3 +1,5 @@
+# Crie um programa que leia sete valores numéricos e guarde-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
+
 num = [[], []]
 valor = 0
 
